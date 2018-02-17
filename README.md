@@ -26,7 +26,7 @@ git clone https://github.com/NoFooZiTM/Bibaktab
 
 -
 
-cd t*
+cd B*
 
 
 chmod +x launch
@@ -43,7 +43,7 @@ chmod +x launch
 -
 
 
-cd t*
+cd B*
 
 ./launch panel
 و بعد اگه ربات کامل اجرا شد
@@ -53,7 +53,7 @@ cd t*
 -
 
 
-cd t*
+cd B*
 
 ./launch auto
 
