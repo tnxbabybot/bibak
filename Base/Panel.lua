@@ -7,13 +7,13 @@ local URL = require "socket.url"
 local https = require "ssl.https"
 local serpent = require "serpent"
 local json = (loadfile "Data/JSON.lua")()
-local token = '488610809:AAE8ytWMCQZxy8-0YKIuyUds5oPwoBhevYM' --token
+local token = '539922716:AAEy7uxl64rL97hZQ-vdvIDSX2pdYgpzkTs' --token
 local url = 'https://api.telegram.org/bot' .. token
 local offset = 0
 local redis = require('redis')
 local redis = redis.connect('127.0.0.1', 6379)
-local botcli = 451274866
-local SUDO = 304933903
+local botcli = 572716174
+local SUDO = 512679283
 local BOT = 1
 function is_mod(chat,user)
 sudo = {}
